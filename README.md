@@ -11,7 +11,7 @@ Business Problem Solving: Transforming raw data into clear insights for decision
 
 🔹 Featured Projects
 
-Employee Database (SQL)
+Mobile Sales Database (Power Bi)
 
 Designed queries for employee records across multiple years.
 
@@ -36,4 +36,4 @@ This portfolio is built to showcase not just technical skills, but the ability t
 🔹 Contact
 
 📧 Email: jessica.a.osagie@gmail.com
-🔗 LinkedIn: linkedin.com/in/jessica-osagie/
+🔗 LinkedIn: [linkedin.com/in/jessica-osagie/]
