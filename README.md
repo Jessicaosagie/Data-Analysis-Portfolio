@@ -1,37 +1,48 @@
-Welcome to my Data Analysis Portfolio!
-This repository highlights projects that demonstrate my ability to extract, analyze, and visualize data using SQL and Power BI.
+# 📊 Data Analysis Portfolio
 
-🔹 Skills Demonstrated
+Welcome to my Data Analysis Portfolio!  
+This repository contains a collection of my analytics projects using **Excel, SQL, and Power BI**.  
+Each project showcases different skills in data cleaning, analysis, and visualization.
 
-SQL: Data extraction, joins, aggregations, constraints, and business queries.
+---
 
-Power BI: Interactive dashboards, DAX measures, calculated columns, and data storytelling.
-
-Business Problem Solving: Transforming raw data into clear insights for decision-making.
-
-🔹 Featured Projects
-
-Mobile Sales Database (Power Bi)
-
-Designed queries for employee records across multiple years.
-
-Used UNION, INTERSECT, and EXCEPT to track new hires, leavers, and common employees.
-
-Product & Sales Analysis (SQL)
-
-Queries to calculate total revenue, stock values, and category insights.
-
-Business questions answered: Which products sell the most? Which categories drive revenue?
-
-Sales Dashboard (Power BI)
-
-Visualized sales trends by age group, payment method, and revenue contribution.
-
-Created calculated columns (e.g., customer profiles, payment levels) using DAX.
-
-🔹 Goal
+## 🔹 Goal
 
 This portfolio is built to showcase not just technical skills, but the ability to translate data into insights that matter for business stakeholders (CEOs, CMOs, Finance, and Marketing).
+
+---
+
+## 🔗 Projects
+
+1. **[Mobile Sales Analysis](https://github.com/Jessicaosagie/Mobile-sales-analysis)**  
+   - Tools: Power BI, Excel, SQL  
+   - Focus: Sales performance by gender, region, and payment method.  
+
+2. **[Car Sales Analysis](https://github.com/Jessicaosagie/Car_Sales_Analysis)**  
+   - Tools: Excel (Pivot Tables, Charts), SQL  
+   - Focus: Vehicle sales by region, type, and customer demographics.  
+
+3. **[Healthcare Cost Analysis](https://github.com/Jessicaosagie/Health-Medical-Cost-Analysis)**  
+   - Tools: Power BI, Excel, SQL  
+   - Focus: Insurance charges by age, BMI, gender, smoking status, and region.  
+
+---
+
+## 🛠️ Tools & Skills
+- **Excel** – Pivot Tables, Charts, Data Cleaning  
+- **SQL** – Data Extraction, Queries, Aggregation  
+- **Power BI** – Dashboards, Interactive Visuals  
+- **GitHub** – Version Control & Documentation  
+
+---
+
+## 🏷️ Author
+**Jessica Osagie**  
+- 📧 Email: your.email@example.com  
+- 🌐 GitHub: [Jessicaosagie](https://github.com/Jessicaosagie)  
+- 🔗 LinkedIn: [jessicaosagie](https://linkedin.com/in/jessicasagie/)  
+
+
 
 🔹 Contact
 
